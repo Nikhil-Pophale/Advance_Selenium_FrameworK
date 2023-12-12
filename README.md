@@ -26,6 +26,6 @@ Run Local and on Selenoid Integration
 
 ![Screenshot (287)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/523aaa0a-d976-4ccd-864b-28336377107e)
 
-![Screenshot (288)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/eb04da35-7724-41b0-82c6-55efcc554637)
+![Screenshot (289)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/eb04da35-7724-41b0-82c6-55efcc554637)
 
 
