@@ -4,23 +4,27 @@ Author - Nikhil Pophale
 
 Email : nikhilpophale01@gmail.com
 
-**Tech stack used described below:**
+**Tech stack used :**
 
-Java, Selenium, TestNG
+Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
-Maven, AssertJ, POM
+Selenium 4.12.0  &nbsp;&nbsp;:    &nbsp;&nbsp;To automate the browser interactions.<br />
 
-Thread Local Support → Thread Safety
+Maveen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
-Allure Report
+TestNg  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute Selenium tests.)<br />
 
-Excel Sheet for Test Data → Data Provider
+JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
 
-Read the username and password from Properties-
+Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
+
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
+
+Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert 
 
 TestNG, @Test, Before and After Method.
 
-Run Local and on Selenoid Integration
+Run Local and on Jenkins Integration
 
 ![image](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/e7138b6a-b7ec-4618-b352-3cc4ffe9d3ed)
 
