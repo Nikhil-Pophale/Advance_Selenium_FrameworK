@@ -27,8 +27,7 @@ TestNG, @Test, Before and After Method.
 Run Local and on Jenkins Integration
 
 **Framework Overview  :**
-![c](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/a0f92210-a9f0-4ef6-ab47-07f211ca82da)
-
+![c](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/a0f92210-a9f0-4ef6-ab47-07f211ca82da)<br />
 **Allure Report >>**
 ![Screenshot (287)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/523aaa0a-d976-4ccd-864b-28336377107e)
 
