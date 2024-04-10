@@ -4,7 +4,7 @@ Author - Nikhil Pophale
 
 Email : nikhilpophale01@gmail.com
 
-**Tech stack used :**
+**_Tech stack used :_**
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
@@ -26,9 +26,9 @@ TestNG, @Test, Before and After Method.
 
 Run Local and on Jenkins Integration
 
-**Framework Overview  :**
+**_Framework Overview  :_**
 ![c](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/a0f92210-a9f0-4ef6-ab47-07f211ca82da)<br />
-**Allure Report >>**
+**_Allure Report >>_**
 ![Screenshot (287)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/523aaa0a-d976-4ccd-864b-28336377107e)
 
 ![Screenshot (289)](https://github.com/Nikhil-Pophale/Advance_Selenium_FrameworK/assets/141396302/eb04da35-7724-41b0-82c6-55efcc554637)
